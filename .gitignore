@@ -1,0 +1,45 @@
+# ==========================================
+# ALSA OS - Git Ignore
+# ==========================================
+
+# ESP-IDF / CMake / Ninja
+/build/
+/sdkconfig
+/sdkconfig.old
+/managed_components/
+
+# Visual Studio Code
+/.vscode/
+/.clangd
+
+# Archivos temporales
+*.swp
+*.swo
+*~
+
+# Archivos locales y credenciales
+.env
+.env.*
+!.env.example# ==========================================
+# ALSA OS - Git Ignore
+# ==========================================
+
+# ESP-IDF / CMake / Ninja
+/build/
+/sdkconfig
+/sdkconfig.old
+/managed_components/
+
+# Visual Studio Code
+/.vscode/
+/.clangd
+
+# Archivos temporales
+*.swp
+*.swo
+*~
+
+# Archivos locales y credenciales
+.env
+.env.*
+!.env.example
